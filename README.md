@@ -5,14 +5,14 @@ Un CRUD fullStack, realizado con React, node y Mysql, es original del canal [inf
 con algunas modificaciones personales.
 Dentro de la carpeta node se encuentra una carpeta llamada "bk", que contiene la base de datos en mysql, para que la importes si descargas el proyecto (debes tener algun paquete de servidor web como XAMPP ó WAMP).
 
-# backend:
+# backend "NODE":
 
 - "cors": "^2.8.5",
 - "express": "^4.18.1",
 - "mysql2": "^2.3.3",
 - "sequelize": "^6.23.1"
 
-# front:
+# front"REACT":
 
 - "axios": "^0.27.2",
 - "react": "^18.2.0",
